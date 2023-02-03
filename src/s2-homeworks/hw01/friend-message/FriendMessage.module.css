@@ -21,6 +21,7 @@
   position: relative;
   padding: 10px;
   margin-left: 10px;
+  z-index: 10;
 }
 
 .friendText:after {
@@ -28,10 +29,10 @@
   position: absolute;
   width: 0;
   height: 0;
-  border-bottom: 10px solid #F5F7FB;
-  border-left: 10px solid transparent;
+  border-bottom: 13px solid #F5F7FB;
+  border-left: 13px solid transparent;
   left: -10px;
-  bottom: 0;
+  bottom: -1px;
 }
 
 .friendName {
