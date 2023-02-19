@@ -1,7 +1,9 @@
 .stand {
+    margin-top: 94px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 50px;
 }
 
 .inputs {
