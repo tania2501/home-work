@@ -1,9 +1,7 @@
 .select {
+  width: 165px;
+  height: 24px;
+  outline: none;
+  margin-right: 110px;
 }
 
-.select:focus {
-}
-
-
-.option:hover {
-}
