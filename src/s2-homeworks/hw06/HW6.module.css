@@ -1,10 +1,6 @@
 .buttonsContainer button {
   margin-right: 24px;
 }
-.buttonsContainer {
-  margin-top: 16px;
-  margin-bottom: 230px;
-}
 
 .editableSpanContainer input {
   border: 1px solid #D1D1D1;
