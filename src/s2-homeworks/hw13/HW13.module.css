@@ -1,22 +1,12 @@
 .buttonsContainer button {
   margin-right: 30px;
 }
-
 .responseContainer {
   display: flex;
   align-items: center;
   margin: 90px;
+  height: 225px;
 }
-
-.imageContainer {
-}
-
-.image {
-}
-
-.textContainer{
-}
-
 .code {
   font-weight: 500;
   font-size: 30px;
