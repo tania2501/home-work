@@ -56,9 +56,6 @@ const HW15 = () => {
                 // делает студент
               setTechs(res.data.techs)
               setTotalCount(res.data.totalCount)
-              // setPage(res.config.params.page)
-              // setCount(res.config.params.count)
-              console.log(res.config.params.page)
               setLoading(false)
                 // сохранить пришедшие данные
 
