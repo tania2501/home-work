@@ -85,7 +85,6 @@ const HW15 = () => {
         // setSort(
         // setPage(1) // при сортировке сбрасывать на 1 страницу
         sendQuery({sort: newSort, page: page, count: count})
-        setSearchParams(sort)
         setSearchParams()
         // sendQuery(
         // setSearchParams(
